@@ -11,9 +11,9 @@ A clean and beautiful UI clone of the Spotify app made using Flutter. This proje
 
 ## 📸 Screenshots
 
-| Home Screen | Search Page |
-|-------------|-------------|
-| ![Home](assets/screenshots/spotify_home.png) | ![Search](assets/screenshots/spotify_search.png) |
+| Home Screen | Search Page || Library Page |
+|-------------|-------------||-------------|
+| ![Home](assets/images/spotify_home.png) | ![Search](assets/images/spotify_search.png) || ![Search](assets/images/spotify_library.png) |
 
 ## 📱 Tech Stack
 
